@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(98e0c7d3-9f35-49ea-9ae5-f9440a01fb98), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/knoldus/Downloads/scala/Session4Day2Assignment2/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/knoldus/Downloads/scala/Session4Day2Assignment2/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mfibonacciTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The Fibonacci function should return the correct value for n = 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The Fibonacci function should return the correct value for n = 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The Fibonacci function should return the correct value for n = 20[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 220 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 3, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 3 s, completed 28 Mar, 2023 3:27:04 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
